@@ -1,4 +1,4 @@
-### `Hi there` 👋
+# `Hi there` 👋
 
 #### Thank You for visiting my profile.
 #### Feel free to comment/contribute on any repository.
