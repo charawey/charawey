@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Charawey-X/Charawey-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thank You for visiting my profile.
+Feel free to comment/contribute on any repository.
+I appreciate all the suggestions or help offered.
 
-Here are some ideas to get you started:
+- 🔭 I’m a data analyst
+- 🌱 I’m currently learning web development.
+- 📫 How to reach me: charawey@gmail.com
+- ⚡ Fun fact: The plateau of the journey where nothing seems to make sense anymore. > I'm there :grin:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charawey-X&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
