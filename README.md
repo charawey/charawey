@@ -6,7 +6,9 @@
 
 - 🔭 I’m a data analyst
 - 🌱 I’m currently learning web development 
-<div style="float: right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charawey-X&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>
+<div style="float: right">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charawey-X&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 - 📫 How to reach me: charawey@gmail.com
 - ⚡ Fun fact: You know the plateau of the journey where nothing seems to make sense anymore? `I'm there` :grimacing:
 
