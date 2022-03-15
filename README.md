@@ -3,7 +3,6 @@
 Thank You for visiting my profile.<br>
 Feel free to comment/contribute on any repository.<br>
 I appreciate all the suggestions or help offered.<br>
-
 - 🔭 I’m a data analyst
 - 🌱 I’m currently learning web development 
 - 📫 How to reach me: charawey@gmail.com
