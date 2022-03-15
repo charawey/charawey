@@ -12,3 +12,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charawey-X&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Charawe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charawey-X&show_icons=true&theme=radical&hide=stars)
