@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-#### Thank You for visiting my profile.
-#### Feel free to comment/contribute on any repository.
-#### I appreciate all the suggestions or help offered.
+Thank You for visiting my profile.<br>
+Feel free to comment/contribute on any repository.<br>
+I appreciate all the suggestions or help offered.<br>
 
 - 🔭 I’m a data analyst
 - 🌱 I’m currently learning web development 
