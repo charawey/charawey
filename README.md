@@ -17,8 +17,10 @@ I appreciate all the suggestions or help offered.<br>
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="80" style="margin:20px">
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" height="80" style="margin:20px">
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="80" style="margin:20px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="CSS" height="80" style="vertical-align:top; margin:20px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="CSS" height="80" style="margin:20px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="80" style="margin:20px">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" height="80" style="margin:20px">
+<img src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg" height="80" style="margin:20px">
 </p>
 
 
