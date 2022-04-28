@@ -13,11 +13,11 @@ I appreciate all the suggestions or help offered.<br>
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-<img src="https://www.vectorlogo.zone/logos/c/c-ar21.svg">
+<img src="https://www.vectorlogo.zone/logos/C/C-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.vectorlogo.zone/logos/html/html-ar21.svg">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 </p>
 
