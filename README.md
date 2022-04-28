@@ -13,7 +13,7 @@ I appreciate all the suggestions or help offered.<br>
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="80" style="margin:20px">
-<img src="c-programming-language-seeklogo.com.svg" height="80" style="margin:20px">
+<img src="c-programming-language-seeklogo.com.svg" height="80" style="margin:20px; padding-left:20px !important;">
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="80" style="margin:20px">
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" height="80" style="margin:20px">
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="80" style="margin:20px">
