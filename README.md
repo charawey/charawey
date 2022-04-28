@@ -11,7 +11,7 @@ I appreciate all the suggestions or help offered.<br>
 <br />
 
 ## 🧰 Languages and Tools:
-<p style="display:flex; justify-content:space-between;">
+<p justify-content="space-between">
 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="60" style="margin:10px">
 <img src="https://www.vectorlogo.zone/logos/C/C-ar21.svg" height="60" style="margin:4px">
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="60" style="margin:10px">
