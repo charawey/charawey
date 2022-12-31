@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://camo.githubusercontent.com/be575aa85a73adb1f56ef072b806f513045f68e2e50a9945c763bf65006dcfa6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e64726f69642e737667" alt="android" width="20" height="20"/> I'm an android developer but I'm also really good at web development.<br><br>
+<img src="https://camo.githubusercontent.com/be575aa85a73adb1f56ef072b806f513045f68e2e50a9945c763bf65006dcfa6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e64726f69642e737667" alt="android" width="40" height="40"/> I'm an **android developer** but I'm also really good at web development.<br><br>
 🔭 I'm currently working on a Virtual School project to build a lightweight & simplified canvas for online learning<br><br>👯 I'm looking forward to collaborating on open source projects & any other projects that contribute towards helping communities<br><br>🌱 I am currently learning how to build mobile apps with flutter<br><br>💬 Ask me about databases, Java & food<br><br>⚡ When I'm not coding, I'm definitely eating
 
 
