@@ -11,8 +11,8 @@
 
 ##
 ### Reach me via email:
-[![📫](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](charawey@gmail.com)
+[![📫](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charawey@gmail.com)
 
 ##
 ### Come fight me with code:
-![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white) [Charawey-X](https://www.codewars.com/users/Charawey-X)
+[![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Charawey-X)
