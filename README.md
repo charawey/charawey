@@ -1,5 +1,5 @@
 # 💫 About Me:
-![](https://www.flaticon.com/free-icons/android" title="android icons) I'm an **android developer** but I'm also really good at web development.<br><br>
+![](https://www.flaticon.com/free-icons/android") I'm an **android developer** but I'm also really good at web development.<br><br>
 🔭 I'm currently working on a Virtual School project to build a lightweight & simplified canvas for online learning<br><br>👯 I'm looking forward to collaborating on open source projects & any other projects that contribute towards helping communities<br><br>🌱 I am currently learning how to build mobile apps with flutter<br><br>💬 Ask me about databases, Java & food<br><br>⚡ When I'm not coding, I'm definitely eating
 
 
