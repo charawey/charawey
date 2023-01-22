@@ -1,10 +1,10 @@
 # 💫 About Me:
-#### <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="" width=20 height=20/> I'm an *Android Developer* but, I'm also skilled in *Back-end Development*.<br><br>
-#### 🔭 I'm currently working on *Strucured* version for android<br><br>
-#### 👯 I'm looking forward to collaborating on open source projects & any other projects that contribute towards helping communities<br><br>
-#### 🌱 I am currently building on my backend skills with *Go*<br><br>
-#### 💬 Ask me anything about *Databases*, *JavaScript*, *Java* & *Food*<br><br>
-#### ⚡ Desiderata
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="" width=20 height=20/> I'm an *Android Developer* but, I'm also skilled in *Back-end Development*.<br><br>
+🔭 I'm currently working on *Strucured* version for android<br><br>
+👯 I'm looking forward to collaborating on open source projects & any other projects that contribute towards helping communities<br><br>
+🌱 I am currently building on my backend skills with *Go*<br><br>
+💬 Ask me anything about *Databases*, *JavaScript*, *Java* & *Food*<br><br>
+⚡ Desiderata
 
 ## 💻 Languages (🪛 Backend Major):
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
