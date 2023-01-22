@@ -1,9 +1,9 @@
 # 💫 About Me:
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="" width=20 height=20/> I'm an *Android Developer* but, I'm also skilled in *Back-end Development*.<br><br>
-🔭 I'm currently working on *Strucured* version for android<br><br>
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="" width=20 height=20/> I'm an **Android Developer** but, I'm also skilled in **Back-end Development**.<br><br>
+🔭 I'm currently working on **Strucured** version for android<br><br>
 👯 I'm looking forward to collaborating on open source projects & any other projects that contribute towards helping communities<br><br>
-🌱 I am currently building on my backend skills with *Go*<br><br>
-💬 Ask me anything about *Databases*, *JavaScript*, *Java* & *Food*<br><br>
+🌱 I am currently building on my backend skills with **Go**<br><br>
+💬 Ask me anything about **Databases**, **JavaScript**, **Java** & **Food**<br><br>
 ⚡ Desiderata
 
 ## 💻 Languages (🪛 Backend Major):
