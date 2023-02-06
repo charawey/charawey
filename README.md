@@ -1,5 +1,5 @@
 # 💫 Hi 👋:
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="" width=20 height=20/> I am a **Mobile** and **Back-end Developer**. I use Go and Java for Backend development & Kotlin with Jetpack Compose, Flutter and React Native for mobile development.<br><br>
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="" width=20 height=20/> I am a **Mobile** and **Back-end Developer**. I use **Go**, **Java** and **Python** for Backend development & **Kotlin** with **Jetpack Compose**, **Flutter** and **React Native** for mobile development.<br><br>
 🔭 I'm currently working on **Strucured** version for android<br><br>
 👯 I'm looking forward to collaborating on open source projects & any other projects that contribute towards helping communities<br><br>
 🌱 I am currently building on my backend skills with **Go**<br><br>
