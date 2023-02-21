@@ -2,7 +2,7 @@
 😃 I build Mobile & Web Applications<br><br>
 🔭 I'm currently working on the **Strucured** version for android<br><br>
 👯 Looking forward to collaborating on open source projects & any other projects that contribute towards helping communities<br><br>
-🌱 I am always learning
+🌱 I am always learning<br><br>
 💬 Ask me anything about **Databases**, **JavaScript**, **Java** & **Food**<br><br>
 ⚡ Life gives you 10 seconds of complete understanding then throws you back into the entirety of confusion
 
