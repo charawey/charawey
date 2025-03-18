@@ -26,4 +26,4 @@ func main() {
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtya29uOWxndWwwM3h6cTZlOXRnMDF2a3pybjB1Nm1nM2htd2hsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lZuDtMj71VOHxS/giphy.gif" width="120">
 
 ### Reach me via email:
-[![📫](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charawey@gmail.com)
+[![📫](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charawey@gmail.com) charawey@gmail.com
