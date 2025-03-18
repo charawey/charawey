@@ -27,4 +27,5 @@ func main() {
 
 ### Reach me via email:
 <p></p>
+
 [![📫](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charawey@gmail.com)
