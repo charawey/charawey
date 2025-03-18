@@ -1,11 +1,6 @@
 # 💫 Hi 👋:
 <h2> Hi, I'm Yvonne! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p>I build <em>mobile & backend applications</em></p>
-🔭 I'm currently working on the **Strucured** version for android<br><br>
-👯 Always ready to contribute on open source projects & any other projects that contribute towards helping communities<br><br>
-🌱 I am still learning<br><br>
-💬 Ask me anything about **Databases**, **Go**, **Java** & **Food**<br><br>
-⚡ I hope you find what you're looking for. I hope your life becomes a tapestry of rich and royal hue
+<h3>I build <em>mobile & backend applications</em></h3>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
@@ -20,7 +15,7 @@ func main() {
         languages: [Go, Python, Javascript, Typescript, Java],
         mobile development: [Flutter, Kotlin(Compose), React Native]
         web develoment: [React, Vue, Svelte, Django]
-        tools: [Redis, Docker, Jenkins, AWS, Kubernetes],
+        tools: [Redis, Docker, Jenkins, AWS, Kubernetes, mySQL, PostgreSQL, mongoDB],
         architecture: ["microservices", "event-driven", "design system pattern"],
     }
 
