@@ -1,9 +1,7 @@
-<h2> Hi, I'm Yvonne! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw2dDY3OTFqdThiZzYxeWlhaDB6Z2ZhdGFjcDYzM3B1OWg1N3Z2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nPOh8b4Yk9D1K/giphy.gif" width="80"></h2>
+<h2> Hi, I'm Yvonne! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw2dDY3OTFqdThiZzYxeWlhaDB6Z2ZhdGFjcDYzM3B1OWg1N3Z2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nPOh8b4Yk9D1K/giphy.gif" width="80"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJvaHA0Znk3cXdqMDBzc2l4Yjdhc3kzZHdkaWFiMHZ1MjJsaDR1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExjIbATCCLVAA5G/giphy.gif" width="80"></h2>
 <h3>I build <em>mobile & backend applications</em></h3>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
-
-
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 ```golang
 package main
