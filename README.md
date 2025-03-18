@@ -1,8 +1,8 @@
-<h1> Hi, I'm Yvonne! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1> Hi, I'm Yvonne! <img src="https://media.giphy.com/media/2bBwk0yHKt8mvtDGGX/giphy.gif" width="50"></h1>
 
 ### I build mobile & backend applications
 
-### <img src="https://media.giphy.com/media/2bBwk0yHKt8mvtDGGX/giphy.gif" width="50"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
