@@ -1,4 +1,4 @@
-<h1> Hi, I'm Yvonne! <img src="https://media.giphy.com/media/2bBwk0yHKt8mvtDGGX/giphy.gif" height="50"><img src="https://media.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif" width="50"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1> Hi, I'm Yvonne! <img src="https://media.giphy.com/media/AJutl4hWDr3uwUvJea/giphy.gif" height="50"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 ### I build mobile & backend applications
 
