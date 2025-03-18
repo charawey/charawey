@@ -13,10 +13,10 @@ func main() {
     yvonne := map[string]interface{}{
         pronouns: "she" | "her",
         languages: [Go, Python, Javascript, Typescript, Java],
-        mobile development: [Flutter, Kotlin(Compose), React Native]
-        web develoment: [React, Vue, Svelte, Django]
+        mobile development: [Flutter, Kotlin(Compose), React Native],
+        web develoment: [React, Vue, Svelte, Django],
         tools: [Redis, Docker, Jenkins, AWS, Kubernetes, mySQL, PostgreSQL, mongoDB],
-        architecture: ["microservices", "event-driven", "design system pattern"],
+        architecture: ["microservices", "event-driven", "design system pattern"]
     }
 
 }
